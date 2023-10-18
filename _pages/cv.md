@@ -9,51 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics, B.A. in Economics, University of California, San Diego, 2021
+* M.A. in Applied Mathematics and Computational Science, Unviversity of Pennsylvania, 2023
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2023 - Spring 2024(expected): Research Assistant
+  * Perelman School of Medicine, Unviversity of Pennsylvania
+  * Supervisor: Dr. Li Shen
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2022: Teaching Assistant
+  * Department of Mathematics, MATH 2410
+  * Supervisor: Dr. Lu Lu
+    
+* Summer 2022: Summer Research Assistant
+  * Chemical and Biomolecular Engineering, Unviversity of Pennsylvania
+  * Supervisor: Dr. Lu Lu
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Leadership
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2021-2022: Vice President of Marketing, Quaker Venture Club, UPenn
+* 2018-2020: Vice President of Marketing, Chinese Union, UC San Diego
