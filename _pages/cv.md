@@ -24,7 +24,6 @@ Experience
 
 * Fall 2022: Teaching Assistant
   * Department of Mathematics, MATH 2410
-  * Supervisor: Dr. Lu Lu
     
 * Summer 2022: Summer Research Assistant
   * Chemical and Biomolecular Engineering, Unviversity of Pennsylvania
