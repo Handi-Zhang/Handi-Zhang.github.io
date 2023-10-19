@@ -4,8 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /CV/
-  - /CV.html
+  - /resume
 ---
 
 {% include base_path %}
