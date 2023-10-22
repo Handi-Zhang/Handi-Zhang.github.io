@@ -13,7 +13,7 @@ My name in Chinese is 张涵迪 (Zhang Handi) and I was born in Taian, Shandong,
 
 | Morning（猫宁）                        | Aurum    （奥润）                     | Molly （茉莉）   | Qiuqiu （球球）｜
 | ----------------- | ----------------- | ----------------- | ----------------- |
-| ![cat](https://images/IMG_1325.jpg) | ![dog](https://images/IMG_0919.jpg) | ![dog](https://images/IMG_5019.jpg) | ![dog](https://images/IMG_0632.jpg) |
+| ![](https://github.com/Handi-Zhang/Handi-Zhang.github.io/tree/master/images/IMG_1325.jpg) | ![]([https://images/](https://github.com/Handi-Zhang/Handi-Zhang.github.io/tree/master/images/IMG_0919.jpg) | ![]([https://images/](https://github.com/Handi-Zhang/Handi-Zhang.github.io/tree/master/images/IMG_5019.jpg) |  ![](https://github.com/Handi-Zhang/Handi-Zhang.github.io/tree/master/images/IMG_0632.jpg) |
 
 
 
@@ -21,13 +21,13 @@ Photos of places I have lived
 ======
 Taian, Shandong, China
 Mountain Tai
-<img src='./IMG_0920.JPG' width=60%>
+![](https://github.com/Handi-Zhang/Handi-Zhang.github.io/tree/master/images//IMG_0920.JPG')
 
 San Diego, CA
 Geisel Library
-<img src='./IMG_1953.JPG' width=60%>
+![](https://github.com/Handi-Zhang/Handi-Zhang.github.io/tree/master/images//IMG_1953.JPG')
 
 Philadelphia, PA
-<img src='./IMG_4013.JPG' width=60%>
-<img src='./IMG_4294.JPG' width=60%>
+![](https://github.com/Handi-Zhang/Handi-Zhang.github.io/tree/master/images//IMG_4013.JPG')
+![](https://github.com/Handi-Zhang/Handi-Zhang.github.io/tree/master/images//IMG_4294.JPG')
 
