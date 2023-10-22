@@ -13,7 +13,7 @@ My name in Chinese is 张涵迪 (Zhang Handi) and I was born in Taian, Shandong,
 
 | Morning（猫宁） | Molly （茉莉） | Aurum （奥润） | Qiuqiu （球球） |
 | --- | --- | --- | --- |
-| <img src="https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/6fcf23d19ce3677c5de178fb8d951d3ca6e38c11/images/IMG_1325.JPG" width="300"> | <img src="https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_5091.JPG" width="300"> | <img src="https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/67bd3220b9003b43f6b2ac9f790c557d179114c1/images/IMG_0919.jpg" width="300"> | <img src="https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_6032.JPG" width="300"> |
+| <img src="https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/6fcf23d19ce3677c5de178fb8d951d3ca6e38c11/images/IMG_1325.JPG" width="400"> | <img src="https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_5091.JPG" width="350"> | <img src="https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/67bd3220b9003b43f6b2ac9f790c557d179114c1/images/IMG_0919.jpg" width="300"> | <img src="https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_6032.JPG" width="350"> |
 
 
 
