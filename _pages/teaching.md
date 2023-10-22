@@ -13,7 +13,7 @@ My name in Chinese is 张涵迪 (Zhang Handi) and I was born in Taian, Shandong,
 
 | Morning（猫宁）                        | Aurum    （奥润）                     | Molly （茉莉）   | Qiuqiu （球球）
 | ----------------- | ----------------- | ----------------- | ----------------- |
-| ![Morning](images/IMG_1325.jpg) | ![Aurum](images/IMG_0919.jpg) | ![Molly](images/IMG_5019.jpg) |  ![Qiuqiu](images/IMG_0632.jpg) |
+| ![Morning]([images/IMG_1325.jpg](https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_1325.JPG)) | ![Aurum]([images/IMG_0919.jpg](https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_0919.jpg)) | ![Molly]([images/IMG_5019.jpg](https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_5091.JPG)) |  ![Qiuqiu]([images/IMG_0632.jpg](https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_6032.JPG)) |
 
 
 
@@ -21,13 +21,13 @@ Photos of places I have lived
 ======
 **Taian, Shandong, China**
 Mountain Tai
-![Taian](images/IMG_0920.JPG')
+![Taian]([images/IMG_0920.JPG](https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_0920.JPG))
 
 **San Diego, CA**
 Geisel Library
-![SD](images/IMG_1953.JPG')
+![SD]([images/IMG_1953.JPG'](https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_1953.jpg)https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_1953.jpg)
 
 **Philadelphia, PA**
-![Philly1](images/IMG_4013.JPG')
-![Philly2](images/IMG_4294.JPG')
+![Philly1]([images/IMG_4013.JPG'](https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_4013.JPG)https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_4013.JPG)
+![Philly2]([images/IMG_4294.JPG'](https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_4294.JPG)https://github.com/Handi-Zhang/Handi-Zhang.github.io/blob/fd566e4c9944700762a925dc7ec265d7610c54af/images/IMG_4294.JPG)
 
