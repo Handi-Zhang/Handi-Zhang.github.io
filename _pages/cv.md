@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
+* M.A. in Applied Mathematics and Computational Science, University of Pennsylvania, 2023
 * B.S. in Applied Mathematics; B.A. in Economics, University of California, San Diego, 2021
-* M.A. in Applied Mathematics and Computational Science, Unviversity of Pennsylvania, 2023
 
 
 Experience
