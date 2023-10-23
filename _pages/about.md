@@ -12,6 +12,6 @@ I am a Research Assistant supervised by Dr. Li Shen at the Perelman School of Me
 
 My broad research interests involve in scientific machine learning (SciML), AI for medicine, and federated learning, including theory, algorithms, and applications to real life problems. 
 
-I worked on the interdisciplinary methods across Physics-Informed Neural Networks (PINNs), operator learning and federated learning during my master period at UPenn. More recently, I'm working on developing and applying machine learning strategies, numerical methods and federated learning for analyzing medical data to advance the study of Alzheimer’s disease (AD).  
+I worked on the interdisciplinary methods across Physics-Informed Neural Networks (PINNs), operator learning and federated learning during my master period at UPenn, where I applied data-driven methods constrained by physical knowledge to solve partial differential equations (PDEs) or learn differential operators. More recently, I'm working on developing and applying machine learning strategies (SVM, transformers and other large language models), numerical methods and federated learning for analyzing medical data.  
 
 I'm actively looking for Ph.D. position in Fall 2024.
