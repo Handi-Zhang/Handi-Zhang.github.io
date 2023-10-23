@@ -26,7 +26,7 @@ Mountain Tai (Online picture)
 
 **San Diego, CA**
 Geisel Library
- <img src="/images/IMG_1953.JPG" width="700"> 
+![SD](/images/IMG_1953.JPG)
 
 **Philadelphia, PA**
 ![Philly1](/images/IMG_4013.JPG)
