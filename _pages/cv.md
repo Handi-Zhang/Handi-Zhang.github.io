@@ -12,13 +12,17 @@ redirect_from:
 
 Education
 ======
+* Ph.D. student in Applied Mathematics and Computational Science, University of Pennsylvania, Now
 * M.A. in Applied Mathematics and Computational Science, University of Pennsylvania, 2023
 * B.S. in Applied Mathematics; B.A. in Economics, University of California, San Diego, 2021
 
 
 Experience
 ======
-* Fall 2023 - Spring 2024(expected): Research Assistant
+* Spring 2024: Teaching Assistant
+  * Department of Mathematics, MATH 6035
+    
+* Fall 2023 - Spring 2024: Research Assistant
   * Perelman School of Medicine, Unviversity of Pennsylvania
   * Supervisor: Dr. Li Shen
 
