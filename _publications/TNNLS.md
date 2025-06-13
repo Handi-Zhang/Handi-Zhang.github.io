@@ -3,6 +3,6 @@ title: "Federated scientific machine learning for approximating functions and so
 collection: publications
 permalink: /publication/TNNLS
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
-paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0045782523001883](https://arxiv.org/abs/2410.13141
+paperurl: https://arxiv.org/abs/2410.13141
 
 ---
