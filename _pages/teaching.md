@@ -13,7 +13,7 @@ My name in Chinese is 张涵迪 (Zhang Handi) and I was born in Taian, Shandong,
 
 | Morning（猫宁） | Molly （茉莉） | Aurum （奥润） | Qiuqiu （球球） |
 | --- | --- | --- | --- |
-| <img src="/images/IMG_1325.JPG" width="350"> | <img src="/images/IMG_5091.JPG" width="350"> | <img src="/images/IMG_0919.jpg" width="350"> | <img src="/images/IMG_6032.JPG" width="350"> |
+| <img src="/images/IMG_1325.JPG" width="350" height="400"> | <img src="/images/IMG_5091.JPG" width="350" height="400"> | <img src="/images/IMG_0919.jpg" width="350" height="400"> | <img src="/images/IMG_6032.JPG" width="350" height="400"> |
 
 
 
