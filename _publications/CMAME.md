@@ -6,4 +6,3 @@ venue: 'Computer Methods in Applied Mechanics and Engineering, Volume 412, 1 Jul
 paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0045782523001883
 
 ---
-<img src="/images/IMG_1325.JPG" width="350">
