@@ -14,20 +14,33 @@ By leveraging neural networks, the emerging field of scientific machine learning
 
 ## Main idea
 
-<p align="center">
+<figure style="text-align: center;">
   <img src="/images/TNNLS/new_vis_workflow.png" alt="Workflow for federated SciML." style="width:85%;">
-</p>
+  <figcaption style="text-align: left;">
+    <strong>Workflow of federated scientific machine learning.</strong>
+  </figcaption>
+</figure>
 
 In FedSciML, each client has its model and dataset. The models are trained through a collaborative training procedure, which includes (1) the aggregation from local models to the server model and (2) the broadcast from the server model back to local models.
 
-<p align="center">
+
+<figure style="text-align: center;">
   <img src="/images/TNNLS/data_assign_emd.png" alt="Visualization of data generation methods." style="width:85%;">
-</p>
+  <figcaption style="text-align: left;">
+    <strong>Visualization of data generation methods.</strong>
+  </figcaption>
+</figure>
+
 
 We generate controllable non-IID datasets to study data heterogeneity in federated scientific machine learning. For function approximation and PDE problems, data are partitioned across clients using 1D partitions, 2D (x)-partitions, or 2D (xy)-partitions. For operator learning, data heterogeneity is introduced by assigning clients input functions generated from different subsets of Chebyshev basis functions. The 1-Wasserstein distance (W_1) is used to quantify the discrepancy between client data distributions.
 
-<p align="center">
+
+<figure style="text-align: center;">
   <img src="/images/TNNLS/vis_wd.png" alt="Visualization of weight divergence in federated learning." style="width:85%;">
-</p>
+  <figcaption style="text-align: left;">
+    <strong>Figure. Visualization of weight divergence in federated learning.</strong>
+  </figcaption>
+</figure>
+
 
 The black dashed line represents the gradient descent for the centralized model. The blue and orange lines correspond to the gradient descents for two clients in federated learning, while the green line depicts the gradient descent of the global model using the FedAvg algorithm.
