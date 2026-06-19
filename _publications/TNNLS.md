@@ -5,7 +5,7 @@ permalink: /publication/TNNLS/
 date: 2024-10-17
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 paperurl: https://ieeexplore.ieee.org/document/11053778
-excerpt: false
+excerpt: ""
 ---
 
 ## Abstract
