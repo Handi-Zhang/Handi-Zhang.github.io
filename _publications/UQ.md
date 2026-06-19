@@ -5,7 +5,7 @@ permalink: /publication/UQ/
 date: 2026-6-10
 venue: 'arXiv Preprint'
 paperurl: https://arxiv.org/abs/2606.11650
-excerpt: false
+excerpt: ""
 ---
 
 ## Abstract
