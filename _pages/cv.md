@@ -22,19 +22,22 @@ Experience
 * Fall 2025: Mentor for [Directed Reading Program](https://web.sas.upenn.edu/math-drp/)
   * Department of Mathematics
   * Mentee: Terhi Nurminen
-  
+
+* Fall 2025: Teaching Assistant
+  * Department of Mathematics, AMCS 6045 *Topics in Numerical Analysis and Scientific Computing*
+
 * Spring 2024: Teaching Assistant
-  * Department of Mathematics, MATH 6035
+  * Department of Mathematics, MATH 6035 *Numerical and Applied Analysis II*
     
 * Fall 2023 - Spring 2024: Research Assistant
-  * Perelman School of Medicine, Unviversity of Pennsylvania
+  * Perelman School of Medicine, University of Pennsylvania
   * Supervisor: Dr. [Li Shen](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9075258)
 
 * Fall 2022: Teaching Assistant
-  * Department of Mathematics, MATH 2410
+  * Department of Mathematics, MATH 2410 *Partial Differential Equations*
     
-* Fall 2021 - Fall 2023: Graduate Research Assistant
-  * Chemical and Biomolecular Engineering, University of Pennsylvania
+* Fall 2021 - Spring 2024: Graduate Research Assistant
+  * Graduate Group of Applied Mathematics and Computational Science, University of Pennsylvania
   * Supervisor: Dr. [Lu Lu](https://lugroup.yale.edu/)
   
   
