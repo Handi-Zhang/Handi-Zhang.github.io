@@ -5,7 +5,7 @@ permalink: /publication/CMAME/
 date: 2023-07-01
 venue: 'Computer Methods in Applied Mechanics and Engineering, Volume 412, 1 July 2023, 116064'
 paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0045782523001883
-excerpt: false
+excerpt: ""
 ---
 
 ## Abstract
